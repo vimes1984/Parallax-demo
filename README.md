@@ -1,6 +1,7 @@
-# Genesis Sample Theme
+# Genesis Sample Theme With Parallax
 
-Github project link: https://github.com/copyblogger/genesis-sample
+This is meant as a sample to implement the Parallax demo on genesis as shown buy the tutorial here:
+
 
 
 ## Installation Instructions
